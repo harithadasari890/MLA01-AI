@@ -1,0 +1,6 @@
+Start from the source node.
+Mark the current node as visited.
+Display the current node.
+Visit each unvisited adjacent node recursively.
+Repeat until all nodes have been visited.
+Stop.
