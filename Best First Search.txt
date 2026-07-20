@@ -1,0 +1,5 @@
+Start from the source node.
+Store nodes in a priority queue according to heuristic value.
+Select the node with the lowest heuristic.
+Continue until the goal node is reached.
+Display the path.
