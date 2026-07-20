@@ -1,0 +1,7 @@
+Start from the source node.
+Mark the source node as visited and insert it into a queue.
+Remove the front node from the queue.
+Display the node.
+Visit all unvisited adjacent nodes, mark them as visited, and add them to the queue.
+Repeat Steps 3–5 until the queue becomes empty.
+Stop.
