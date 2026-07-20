@@ -1,0 +1,7 @@
+Fill the 4-liter jug.
+Pour water into the 3-liter jug.
+Empty the 3-liter jug.
+Transfer the remaining water from the 4-liter jug to the 3-liter jug.
+Fill the 4-liter jug again.
+Pour water into the 3-liter jug until it is full.
+The remaining water in the 4-liter jug is the required quantity.
