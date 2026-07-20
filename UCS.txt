@@ -1,0 +1,6 @@
+Start from the source node.
+Create a priority queue and insert the source node with cost 0.
+Remove the node with the lowest path cost.
+If it is the goal node, display the path and cost.
+Otherwise, expand its neighbors and update their costs.
+Repeat until the goal is reached.
