@@ -1,0 +1,6 @@
+Start from the root node.
+If the node is a leaf, return its value.
+If it is the maximizing player's turn, choose the maximum value.
+If it is the minimizing player's turn, choose the minimum value.
+Continue recursively until the root node gets the best value.
+Display the optimal value.
